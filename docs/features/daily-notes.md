@@ -2,7 +2,7 @@
 
 Daily notes allow you to quickly create and access notes for today.
 
-Try it out, run the `Foam: Open Daily Note` command.
+Try it out, run the `[[2021-07-14]]` command.
 
 ## Shortcuts and Snippets
 
