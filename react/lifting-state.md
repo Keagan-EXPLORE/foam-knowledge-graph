@@ -57,5 +57,6 @@ export default App
 
 ```
 
-## tags
-[[react-hooks]]
+## Resources
+- [Lifting state](https://reactjs.org/docs/lifting-state-up.html) 
+- [State colocation](https://kentcdodds.com/blog/state-colocation-will-make-your-react-app-faster)
