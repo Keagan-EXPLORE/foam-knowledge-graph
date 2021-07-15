@@ -2,7 +2,7 @@
 title: lifting-state
 type: react
 date created: 15/07/2021
-tags: state-management
+tags: state-management 
 ---
 ## Explanation
 - Lifting state is how you state between two sibling components. 
@@ -56,3 +56,6 @@ function App() {
 export default App
 
 ```
+
+## tags
+[[react-hooks]]
